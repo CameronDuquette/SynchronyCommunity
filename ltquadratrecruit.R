@@ -1,3 +1,5 @@
+
 ###Reading in veg quadrat data
 
-vegqdata
+quads=read.csv('F:/NMSU/Spatiotemporal Synchrony/JQPNoannuals15_79.csv')
+
